@@ -1,7 +1,7 @@
 "use strict";
 document.addEventListener("DOMContentLoaded", function(event) {
   let mainText = document.querySelector('.mainText'),
-    mainTextobj = ["тапатуськай", "я би міг бескінечно писати тут компліменти", "але у мене є для тебе дещо краще...", "міні гра ＼(￣▽￣)／", "знайди пару (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"],
+    mainTextobj = ["тапатуськай", "я би мiг бескiнечно писати тут комплiменти", "але у мене є для тебе дещо краще...", "мiнi гра ＼(￣▽￣)／", "знайди пару (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"],
     counter = 0,
     clicked = false,
     card= document.querySelectorAll(".card__inner"),
