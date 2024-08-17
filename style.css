@@ -10,7 +10,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Edu VIC WA NT Beginner", cursive;
+  font-family: "Pacifico", "Edu VIC WA NT Beginner";
   font-weight: 500;
   font-size: 30px;
   text-shadow: white 0.1rem 0 0.3rem;
@@ -177,7 +177,7 @@ p {
 .heart {
   position: absolute;
   width: 100%;
-  max-height: 100%;
+  height: 100%;
   object-fit: cover;
   opacity: 30%;
   top: 0;
@@ -207,6 +207,7 @@ body {
   position: absolute;
   width: 5%;
   opacity: 0;
+  top: 50.5%;
 }
 
 .coupleAnim {
